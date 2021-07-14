@@ -12,9 +12,4 @@ namespace ProGitDotNet
 
         }
     }
-
-    public class Calcuator
-    {
-        
-    }
 }
