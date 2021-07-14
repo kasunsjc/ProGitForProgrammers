@@ -4,4 +4,6 @@ public class Book
     public List<string> Authors { get; set; }
 
     public DateTime PublicationDate { get; set; }
+
+    public string Publisher { get; set; }
 }
